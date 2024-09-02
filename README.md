@@ -12,7 +12,7 @@ Departmental Statistics: Provides a summary of employees by department, includin
 ## Technology Stack
 1. ASP.NET WebForms: For creating the user interface and handling server-side logic.
 2. C#: For backend processing and data handling.
-3. HTML/CSS: For structuring and styling the web pages.
+3. HTML, CSS, Javascript: For structuring and styling the web pages.
 4. SQL Server: For storing and retrieving employee data.
 
 ## How to Use
